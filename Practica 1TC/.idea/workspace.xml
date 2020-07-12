@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1fb80b84-e53e-433b-b671-eb3a959dbaeb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WoiMrUrQ0LTSY20gy5RavngFni" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="last_opened_file_path" value="C:/" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Alfabetos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Alfabetos" />
+      <module name="Practica1TeoriaComputacional" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Alfabetos" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fb80b84-e53e-433b-b671-eb3a959dbaeb" name="Default Changelist" comment="" />
+      <created>1579822302848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579822302848</updated>
+      <workItem from="1579822306587" duration="7236000" />
+      <workItem from="1580069110153" duration="20461000" />
+      <workItem from="1580168539786" duration="5438000" />
+      <workItem from="1580239308810" duration="621000" />
+      <workItem from="1580476178433" duration="6568000" />
+      <workItem from="1580775932985" duration="6811000" />
+      <workItem from="1581037027042" duration="10437000" />
+      <workItem from="1581608963524" duration="262000" />
+      <workItem from="1581634361272" duration="4247000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579822998881">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1579822998881" />
+    <state x="499" y="160" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1579831220276">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="160" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1579831220276" />
+    <state x="549" y="140" key="FileChooserDialogImpl" timestamp="1581638733781">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="140" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581638733781" />
+    <state width="1493" height="215" key="GridCell.Tab.0.bottom" timestamp="1581638791852">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="215" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581638791852" />
+    <state width="1493" height="215" key="GridCell.Tab.0.center" timestamp="1581638791852">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="215" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581638791852" />
+    <state width="1493" height="215" key="GridCell.Tab.0.left" timestamp="1581638791852">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="215" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581638791852" />
+    <state width="1493" height="215" key="GridCell.Tab.0.right" timestamp="1581638791852">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="215" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581638791852" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1581044816354">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581044816354" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1581044816354">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1581044816354" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1581044816354">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1581044816354" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1581044816354">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1581044816354" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1581037057696">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581037057696" />
+    <state x="499" y="179" key="extract.method.dialog" timestamp="1580480661496">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="179" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1580480661496" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1581637917432">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1581637917432" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1580479621340">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1580479621340" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Alfabetos.java</url>
+          <line>12</line>
+          <properties class="Alfabetos" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Alfabetos.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Alfabetos.java</url>
+          <line>618</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
